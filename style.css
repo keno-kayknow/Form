@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(72, 72, 218);
+}
+
+.jumbotron{
+    text-align: center;
+    padding: 250px 0px;
+
+}
+h1{
+    color: #ffffff;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+p{
+    color: #ffffff;
+    padding-bottom: 20px;
+    font-weight: 400px;
+}
+
+.btn{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    padding: 7px 25px;
+
+}
+.btn a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.far{
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.colors{
+    width: 40%;
+    background-color: #ffffff;
+    padding: 10px 0px;
+}
+.fas{
+    padding-left: 10px;
+}
+.text1{
+    padding: 15px 0px;
+    font-size: 18px;
+}
+
+.d-flex{
+    padding-left: 500px;
+}
+
+footer{
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+}
